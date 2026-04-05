@@ -19,6 +19,19 @@ This repository contains my JavaScript practice code as I learn and improve my s
 * DOM Manipulation (coming soon)
 * ES6+ Features
 
+## 📂 Folder Structure
+
+```
+javascript-practice/
+│
+├── basics/
+├── loops/
+├── functions/
+├── arrays/
+├── objects/
+├── dom/
+├── mini-projects/
+```
 
 ## 💻 How to Run
 
@@ -35,9 +48,6 @@ git clone https://github.com/your-username/javascript-practice.git
 
 To become proficient in JavaScript and build real-world projects.
 
-## 📈 Progress
-
 
 
 ⭐ If you like this repo, feel free to star it!
-# javascript-practice
