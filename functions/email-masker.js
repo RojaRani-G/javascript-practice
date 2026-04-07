@@ -22,8 +22,6 @@ let email = "apple.pie@example.com";
 // Call function and log result
 console.log(maskEmail(email));
 
-
-// ✅ Test examples
 console.log(maskEmail("apple.pie@example.com"));   // a*******e@example.com
 console.log(maskEmail("freecodecamp@example.com")); // f**********p@example.com
 console.log(maskEmail("info@test.dev"));           // i**o@test.dev
